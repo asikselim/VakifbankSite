@@ -1,0 +1,377 @@
+@charset "UTF-8";
+body {
+  margin: 0 0;
+  padding: 0 0;
+}
+
+.kapsayıcı {
+  margin: 0 auto;
+  width: 60%;
+}
+
+.endış {
+  width: 100%;
+  background-color: #fcf7f2;
+}
+
+.bolum1 {
+  width: 50%;
+}
+.bolum1 .amblem {
+  width: 300px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.bolum2 {
+  width: 50%;
+}
+
+.genıslık {
+  width: 20%;
+}
+
+.flex {
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+.flexsatır {
+  flex-direction: column;
+}
+
+.yukardanbosluk1 {
+  padding: 5px;
+}
+
+.yukardanbosluk2 {
+  padding: 5px;
+}
+
+.yukardanbosluk3 {
+  padding: 5px;
+}
+
+.yukardanbosluk4 {
+  padding: 5px;
+}
+
+.kenarlıklar {
+  border: 1px solid #e3dada;
+}
+
+.aralık {
+  width: 42%;
+}
+
+.kucukbosluk {
+  width: 8%;
+}
+
+.resimkucult {
+  height: 30px;
+  margin-top: 11px;
+  margin-left: 13px;
+}
+
+.renk {
+  color: white;
+}
+
+.renk2 {
+  background-color: black;
+}
+
+.renk3 {
+  font-weight: bold;
+  color: #008cb6;
+  background-color: black;
+}
+
+.soldan {
+  margin-left: 13px;
+}
+
+.ozellıkler {
+  font-size: 16px;
+  color: #776d72;
+  margin-left: 155px;
+}
+
+.sarılı {
+  background-color: #ffb300;
+}
+
+.navigationbar1 {
+  border-right: 1px solid #c77e15;
+  font-size: 18px;
+  width: 16%;
+  padding: 0px 15px;
+}
+
+.navigationbar2 {
+  font-size: 18px;
+  width: 16%;
+  padding: 0px 15px;
+}
+
+.baslangıc {
+  height: 590px;
+  background-color: #e9e4e0;
+}
+
+.buyukresim {
+  margin-left: 350px;
+  width: 800px;
+  height: 590px;
+}
+
+.detaylıbılgıbutonu {
+  width: 150px;
+  font-weight: bold;
+  padding: 0px 30px;
+  font-size: 17px;
+  color: white;
+  background-color: black;
+}
+
+.aleyna {
+  background-color: #ff9800;
+  border-radius: 100px;
+  width: 120px;
+  height: 120px;
+  margin-left: 16px;
+}
+.aleyna .fotolar {
+  width: 50px;
+  margin-left: 35px;
+  margin-top: 10px;
+}
+.aleyna .metin {
+  color: white;
+  margin-top: 2px;
+  margin-left: 4px;
+  text-align: center;
+}
+
+.genıslık2 {
+  width: 30%;
+}
+
+.aralık2 {
+  width: 40%;
+  margin: 0 auto;
+}
+
+.sarılı2 {
+  background-color: #ffb200;
+}
+
+.yazıortalama {
+  text-align: center;
+}
+
+.yazıbüyüklük {
+  font-weight: bold;
+  font-size: 40px;
+}
+
+.yazıbuyukluk2 {
+  font-size: 20px;
+}
+
+.dortkutu {
+  background-color: white;
+  margin-bottom: 50px;
+  margin-top: 40px;
+  padding: 10px;
+  border-radius: 8px;
+}
+.dortkutu p {
+  margin-bottom: 40px;
+}
+
+.kalpnesnesi {
+  width: 90px;
+  height: 90px;
+  margin-left: 70px;
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+
+.alttakigri {
+  background-color: #e9e4e0;
+}
+
+.sizibiraztanıyabilirmiyizrenk {
+  color: #ffb300;
+}
+
+.alltakiuzunyazı {
+  color: black;
+  font-size: 20px;
+}
+
+.altıkutulu {
+  background-color: #faf5f0;
+}
+
+.arkaplanrenk {
+  background-color: #423c3c;
+}
+
+.elma {
+  text-align: center;
+  color: white;
+  font-size: 25px;
+  font-weight: bold;
+}
+.elma .altıkutulu2 {
+  width: 170px;
+  margin-top: 30px;
+}
+
+.altıkutubosluk {
+  margin-right: 30px;
+}
+
+.duyurular {
+  background-color: #faf5f0;
+}
+
+.duyurularyazısı {
+  font-weight: bold;
+  font-size: 40px;
+  text-align: center;
+}
+
+.esco {
+  text-align: center;
+  font-size: 20px;
+}
+
+.linkyazısı {
+  text-align: center;
+  font-size: 30px;
+}
+
+.linkler {
+  background-color: #f6efe9;
+}
+
+.yukarı {
+  margin-top: 90px;
+}
+
+.asagı {
+  margin-bottom: 90px;
+}
+
+.carla {
+  margin-left: 1000px;
+}
+
+.enaltsiyahrenk {
+  background-color: #201d1e;
+  color: #60747e;
+}
+
+.enaltsiyahyazırenk {
+  background-color: #60747e;
+}
+
+.beyazarkaplan {
+  background-color: white;
+  margin-top: 3px;
+}
+
+.yazıduzeltme {
+  font-size: 20px;
+  margin-left: 15px;
+  margin-right: 15px;
+  margin-top: 15px;
+}
+
+.kalınlık {
+  width: 2000px;
+}
+
+.anasayfayazı {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.okısareti {
+  margin-top: 20px;
+  font-size: 20px;
+}
+
+.ortabolge {
+  background-color: #f3efe0;
+}
+
+.fotomargin {
+  margin-top: 40px;
+  margin-bottom: 70px;
+}
+
+.detaylıbilgi {
+  background-color: black;
+  width: 100px;
+  height: 50px;
+  padding: 5px 0px 5px 0px;
+}
+
+.yazıbeyaz {
+  color: white;
+  text-align: center;
+}
+
+.yazılarıortala {
+  margin-left: 200px;
+  margin-top: 50px;
+}
+
+.dortsarıkutu {
+  background-color: #ffb300;
+  width: 350;
+  height: 300px;
+  padding: 5px;
+  text-align: center;
+  border-radius: 5PX;
+}
+
+.fotosaga {
+  margin-right: 50px;
+}
+
+.yukardanbosluk5 {
+  margin-top: 30px;
+}
+
+.sarırehberrenk {
+  background-color: #f5efe9;
+}
+
+.sarırehberrenk2 {
+  font-size: 30px;
+  color: #ffb300;
+  margin-top: 30px;
+}
+
+.yardımmısarı {
+  font-weight: bold;
+  font-size: 25px;
+  margin: 0px;
+}
+
+.bardak {
+  margin: 0px;
+}
+
+.baslabuton {
+  margin-top: 70px;
+  margin-left: 340px;
+  background-color: black;
+  padding: 30px 50px 30px 50px;
+}
